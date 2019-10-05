@@ -28,4 +28,4 @@ $$ x^2 $$
 
 Hipervinculo 
 
-[a link](https://google.com)
+[Google](https://google.com)
